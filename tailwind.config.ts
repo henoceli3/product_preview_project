@@ -16,6 +16,10 @@ export default {
         White: "hsl(0, 0%, 100%)",
       },
     },
+    fontFamily: {
+      f: ["Fraunces", "serif"],
+      g: ["Montserrat", "sans-serif"],
+    },
   },
   plugins: [],
 } satisfies Config;
